@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\bin\Debug\liste-class.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\bin\Debug\liste-class.exe
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\bin\Debug\liste-class.pdb
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste-class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste-class.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste_class.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste_class.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste-class.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste-class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste-class.exe
+C:\Users\User\Desktop\KORUMASIZ\sedefşirin10-A\liste-class\liste-class\obj\Debug\liste-class.pdb
